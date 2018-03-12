@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="hint_text">Input number here!</string>
+    <string name="bt_5">+</string>
+    <string name="bt_6">-</string>
+    <string name="bt_7">*</string>
+    <string name="bt_8">/</string>
+    <string name="bt_9">(</string>
+    <string name="bt_10">)</string>
+    <string name="bt_11">\u003c-</string>
+    <string name="bt_12">Done</string>
+    <string name="num_picker">Assign Numbers</string>
+    <string name="show_me">Show Me</string>
+</resources>
